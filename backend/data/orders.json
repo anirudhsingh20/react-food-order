@@ -1,0 +1,20 @@
+[
+    {
+        "customer": {
+            "name": "Anirudh",
+            "email": "anirudh@gmail.com",
+            "street": "123",
+            "postal-code": "1234556",
+            "city": "Delhi"
+        },
+        "items": [
+            {
+                "id": "m1",
+                "count": 1,
+                "name": "Mac & Cheese",
+                "price": "8.99"
+            }
+        ],
+        "id": "587.3692472618974"
+    }
+]
